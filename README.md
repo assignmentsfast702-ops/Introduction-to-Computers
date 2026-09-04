@@ -1,5 +1,6 @@
 ## Introduction-to-old Computers and new computers
   A computer is an electronic device that accepts data as input, processes it according to a set of instructions, and produces useful information as output. Computers can perform calculations, store large amounts of data, communicate with other devices, and automate many tasks.
+  Computers are used in almost every field, including education, business, healthcare, banking, engineering, science, and entertainment. Modern computers can perform millions or even billions of operations in a very short time.
 
 ## History of computer
   The history of computers began with simple tools used for calculation and counting. One of the earliest calculating devices was the Abacus, which was used thousands of years ago.
