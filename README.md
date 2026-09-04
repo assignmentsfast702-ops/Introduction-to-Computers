@@ -1,4 +1,4 @@
-## Introduction-to-old Computers and new computers
+## Introduction-to-Computers and super computer
   A computer is an electronic device that accepts data as input, processes it according to a set of instructions, and produces useful information as output. Computers can perform calculations, store large amounts of data, communicate with other devices, and automate many tasks.
   Computers are used in almost every field, including education, business, healthcare, banking, engineering, science, and entertainment. Modern computers can perform millions or even billions of operations in a very short time.
 
