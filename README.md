@@ -3,6 +3,7 @@
 
 ## History of computer
   The history of computers began with simple tools used for calculation and counting. One of the earliest calculating devices was the Abacus, which was used thousands of years ago.
+  In the 17th century, Blaise Pascal developed the Pascaline, a mechanical calculator that could perform basic arithmetic operations. Later, Charles Babbage designed the Analytical Engine in the 19th century. He is often called the "Father of the Computer" because his design introduced many concepts found in modern computers.
 
 ## Types of computer
 Computers can be classified into different types based on their size, performance, purpose, and processing capabilities. Some common types of computers are:
